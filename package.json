@@ -1,0 +1,16 @@
+{
+  "name": "css-3d-clickable-flip-cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass task1.scss style.css",
+    "watch": "sass --watch task1.scss:style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.97.0"
+  }
+}
